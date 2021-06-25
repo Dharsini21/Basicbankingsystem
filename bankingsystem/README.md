@@ -24,6 +24,5 @@ Database contains two Tables-Users Table & Transaction Table:
 Flow of the Website: Home Page>View all Users>Select and view one User> Transfer 
 Money> Select receiver > View all Users > View Transfer History.
 
-Website link: https://subcelestial-outlet.000webhostapp.com
      
      
